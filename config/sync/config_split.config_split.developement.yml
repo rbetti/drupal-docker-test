@@ -1,0 +1,17 @@
+uuid: a2af1883-4e60-4e33-90da-3ad183f8085b
+langcode: it
+status: false
+dependencies: {  }
+id: developement
+label: Developement
+description: ''
+folder: ../config/dev
+module:
+  devel: 0
+  webform_devel: 0
+theme: {  }
+blacklist: {  }
+graylist: {  }
+graylist_dependents: true
+graylist_skip_equal: true
+weight: 0

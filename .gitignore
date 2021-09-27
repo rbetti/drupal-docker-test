@@ -1,0 +1,12 @@
+vendor
+web/core
+web/modules/contrib
+.env
+
+# Ignore paths that contain user-generated content.
+web/sites/*/files
+web/sites/*/private
+
+# dev stuff
+node_modules
+screen.css
